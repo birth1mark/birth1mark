@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birth1mark and I haver a master's degree Web Technologies and Systems Engineering.
 - 👀 I’m interested in programming in geral and learning. 
-- 🌱 I’m currently doing my Master's Dissertation : Embodying the Future - Digital Twin Representation in Healthcare
+- 🌱 I’m have Master's Dissertation : Embodying the Future - Digital Twin Representation in Healthcare
 - 💞️ I’m looking to collaborate on everything that helps me learn new things.
 - 📫 [How to reach me ...] (https://www.linkedin.com/in/pedromar/)
 - My way to the computer science started early. I got my first computer when I was 5. Since that day computers are always in my way, the same way everything that complies with technology. 
